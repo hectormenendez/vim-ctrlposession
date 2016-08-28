@@ -1,6 +1,9 @@
 ctrlp-obsession
 ===============
-A super simple session-navigator using obsession/prosession.
+A super simple session-navigator using [vim-obsession][] / [vim-prosession][].
+
+[vim-obsession]:https://github.com/tpope/vim-obsession
+[vim-prosession]:https://github.com/dhruvasagar/vim-prosession
 
 <img src="https://raw.github.com/gikmx/ctrlp-obsession/master/doc/ctrlp-obsession.gif" width="100%" />
 
