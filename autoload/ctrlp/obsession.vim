@@ -30,7 +30,7 @@ call add(g:ctrlp_ext_vars, {
 \   'enter'     : 'ctrlp#obsession#enter()',
 \   'exit'      : 'ctrlp#obsession#exit()',
 \   'opts'      : 'ctrlp#obsession#opts()',
-\   'lname'     : 'this is the long statuslines',
+\   'lname'     : 'Select your obsession',
 \   'sname'     : 'obsession',
 \   'type'      : 'path',
 \   'sort'      : 1,
@@ -38,6 +38,7 @@ call add(g:ctrlp_ext_vars, {
 \})
 
 " Show the active sessions
+" Yup, this is  the plugin 🙄
 " Return: vimlist -  The list of active sessions.
 "
 function! ctrlp#obsession#init()
