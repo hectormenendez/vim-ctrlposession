@@ -2,6 +2,9 @@ ctrlp-obsession
 ===============
 A super simple session-navigator using obsession/prosession.
 
+<img src="https://raw.github.com/gikmx/ctrlp-obsession/master/doc/ctrlp-obsession.gif" width="100%" />
+
+
 Installation
 ------------
 ### Vundle
