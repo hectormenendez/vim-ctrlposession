@@ -1,4 +1,4 @@
-ctrlp-obsession
+vim-ctrlposession
 ===============
 A super simple session-navigator using [vim-obsession][] / [vim-prosession][].
 
